@@ -13,7 +13,7 @@ const options = {
         lang_ID: '1'
     },
     headers: {
-        'X-RapidAPI-Key': '9cc86c9cf8msh9c993aec6fe59f0p12ed99jsne00d391fbb73',
+        'X-RapidAPI-Key': 'your_api_key',
         'X-RapidAPI-Host': 'investing-cryptocurrency-markets.p.rapidapi.com'
     }
 };
